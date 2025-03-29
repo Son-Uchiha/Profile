@@ -107,7 +107,7 @@ button {
 
 button:hover {
     letter-spacing: 2px;
-    box-shadow: 0 5px 15px rgba(255, 70, 86, 0.4);
+    box-shadow: 0 5px 15px skyblue;
 }
 
 @keyframes float {
